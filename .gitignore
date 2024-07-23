@@ -1,0 +1,7 @@
+# Ignorar archivos con extensiones .exe y .o
+*.exe
+*.o
+*.out
+
+# Ignorar archivos sin extensión
+*.
